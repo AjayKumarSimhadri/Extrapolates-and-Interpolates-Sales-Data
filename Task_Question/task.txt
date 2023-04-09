@@ -1,0 +1,15 @@
+Task:
+Create a function that extrapolates and interpolates sales data.
+Each record is a sales transaction .
+Rows should be imputed and extrapolated for x number of consecutive months after a transaction has happened with sales as 0.
+Imputed or extrapolated rows cannot exceed max_date 
+
+Output file should be match with expected_output.csv
+
+Input : 
+1) input.csv
+2) x = 4
+3) max_date = 201812
+
+Expected output :
+output.csv

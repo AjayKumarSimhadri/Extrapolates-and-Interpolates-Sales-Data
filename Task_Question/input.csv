@@ -1,0 +1,5 @@
+customer,product,yearmonth,sales
+cust1,prod1,201801,10
+cust1,prod1,201803,30
+cust2,prod2,201711,10
+cust2,prod2,201811,20
